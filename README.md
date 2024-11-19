@@ -30,6 +30,7 @@
 *Agile:*
 - Projects with Unclear Requirements: Agile is ideal when project requirements are expected to evolve. The iterative nature allows for ongoing adjustments based on feedback.
 Example: A startup developing a new mobile app may find Agile beneficial, as user feedback can be continuously integrated, and features can be adjusted based on market demands.
+
 *waterfall*
 - Simple and Predictable Projects: Projects that follow a straightforward, linear progression from start to finish.
 Example: Developing a payroll system where the processes are well-known and have little variability.
